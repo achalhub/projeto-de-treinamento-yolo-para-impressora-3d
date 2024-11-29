@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Guia de Configuração: YOLO para Detecção em Impressoras 3D
 
 Este guia descreve as alterações necessárias para configurar os arquivos do projeto em diferentes máquinas.
@@ -78,3 +79,7 @@ Este script é responsável por usar o modelo treinado para detectar objetos em 
 - Certifique-se de que todas as bibliotecas requeridas estão instaladas:
   ```bash
   pip install -r requirements.txt
+=======
+# projeto-de-treinamento-yolo-para-impressora-3d
+Projeto de Treinamento de IA com YOLO para Reconhecimento da Impressora 3D
+>>>>>>> 28fc79582302496095be0c1ff4920f97b3a68c27
